@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md solayman Khan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on Softvence Agency [Donna](https://donna-frontend.netlify.app/)
+- 🔭 I’m currently working on  [Softvence Agency](https://donna-frontend.netlify.app/)
 
 - 🌱 I’m currently learning **React, Next Js**
 
