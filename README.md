@@ -5,6 +5,8 @@
 
 ---
 
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Animation" align="right" width="300"/>
+
 - 🔭 I’m currently working at **[Softvence Agency](https://softvence.agency/)**  
 - 🌱 I’m learning **React** and **Next.js** 🚀  
 - 👯 Open to collaborating on **[BIMSTEC](https://bimstec.org/)**  
@@ -51,7 +53,17 @@
 
 <h3 align="center">🎉 Fun Animations</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50" alt="wave" />
-  <img src="https://media.giphy.com/media/3o7aD4WkK6xE2nwdTG/giphy.gif" width="50" alt="coding" />
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50" alt="rocket" />
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="80" alt="wave" />
+  <img src="https://media.giphy.com/media/3o7aD4WkK6xE2nwdTG/giphy.gif" width="80" alt="coding" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80" alt="rocket" />
+</p>
+
+---
+
+<h3 align="center">🚀 About Me</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="Web Animation" width="300" />
+</p>
+<p>
+  I am an enthusiastic frontend developer who loves crafting responsive, user-friendly interfaces using modern frameworks like React and Next.js. I strive to deliver clean and efficient code while continuously expanding my skill set. Let's build something amazing together! ✨
 </p>
