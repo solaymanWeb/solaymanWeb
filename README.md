@@ -1,24 +1,57 @@
-<h1 align="center">Hi 👋, I'm Md solayman Khan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Md Solayman Khan!
+</h1>
+<h3 align="center">🎨 A Passionate Frontend Developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on  [Softvence Agency](https://softvence.agency/)
+---
 
-- 🌱 I’m currently learning **React, Next Js**
+- 🔭 I’m currently working at **[Softvence Agency](https://softvence.agency/)**  
+- 🌱 I’m learning **React** and **Next.js** 🚀  
+- 👯 Open to collaborating on **[BIMSTEC](https://bimstec.org/)**  
+- 🤝 Seeking help with **[D-Terms](https://d-trmsdf.netlify.app/)**  
+- 👨‍💻 Check out my portfolio at **[solaymanweb.netlify.app](https://solaymanweb.netlify.app/)**  
+- 💬 Ask me about **React** & **Next.js** 💻  
+- 📫 Reach me via **solaymanweb27@gmail.com** 📩  
 
-- 👯 I’m looking to collaborate on [BIMSTEC](https://bimstec.org/)
+---
 
-- 🤝 I’m looking for help with [D-Terms](https://d-trmsdf.netlify.app/)
-
-- 👨‍💻 All of my projects are available at [https://solaymanweb.netlify.app/](https://solaymanweb.netlify.app/)
-
-- 💬 Ask me about **React, Next Js**
-
-- 📫 How to reach me **solaymanweb27@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/solayman.khan.81485/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/solayman.khan.81485/" height="30" width="40" /></a>
+<h3 align="center">🌐 Let's Connect!</h3>
+<p align="center">
+  <a href="https://www.facebook.com/solayman.khan.81485/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+<h3 align="center">💻 Languages & Tools</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
+</p>
+
+---
+
+<h3 align="center">🔥 Fun Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=solayman27&show_icons=true&theme=radical" alt="Md Solayman Khan's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=solayman27&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+<h3 align="center">🎉 Fun Animations</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50" alt="wave" />
+  <img src="https://media.giphy.com/media/3o7aD4WkK6xE2nwdTG/giphy.gif" width="50" alt="coding" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50" alt="rocket" />
+</p>
