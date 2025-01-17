@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at **[Softvence Agency](https://softvence.agency/)**
 - 👨‍💻 Check out my portfolio at **[solaymanweb.netlify.app](https://solaymanweb.netlify.app/)**
-- 👨‍💻 Check out my Resume at **[Resume]([https://solaymanweb.netlify.app/](https://solaymanweb.netlify.app/assets/img/pdf/solayman_resume.pdf))**    
+- 👨‍💻 Check out my Resume at **[Resume](https://solaymanweb.netlify.app/assets/img/pdf/solayman_resume.pdf)**    
 - 📫 Reach me via **solaymanweb27@gmail.com** 📩  
 
 ---
