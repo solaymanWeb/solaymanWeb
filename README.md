@@ -7,12 +7,8 @@
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Animation" align="right" width="300"/>
 
-- 🔭 I’m currently working at **[Softvence Agency](https://softvence.agency/)**  
-- 🌱 I’m learning **React** and **Next.js** 🚀  
-- 👯 Open to collaborating on **[BIMSTEC](https://bimstec.org/)**  
-- 🤝 Seeking help with **[D-Terms](https://d-trmsdf.netlify.app/)**  
-- 👨‍💻 Check out my portfolio at **[solaymanweb.netlify.app](https://solaymanweb.netlify.app/)**  
-- 💬 Ask me about **React** & **Next.js** 💻  
+- 🔭 I’m currently working at **[Softvence Agency](https://softvence.agency/)**
+- 👨‍💻 Check out my portfolio at **[solaymanweb.netlify.app](https://solaymanweb.netlify.app/)**    
 - 📫 Reach me via **solaymanweb27@gmail.com** 📩  
 
 ---
